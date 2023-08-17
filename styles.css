@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+#maindiv{
+	width:300px;
+	height:450px;
+	background-color:whitesmoke;
+	box-shadow: 0px 5px 10px lightslategray; 
+}
+#img{
+	margin-top:40px;
+	margin-left:50px
+}
+.par{
+     text-align:center;
+}
+#btn{
+     text-align:center;
+	margin-left:110px;
+	color:white;
+	background-color:hotpink;
+	padding:10px;
+	border-radius:10px
+}
